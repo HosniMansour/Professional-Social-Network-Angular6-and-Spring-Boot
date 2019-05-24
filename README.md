@@ -4,7 +4,7 @@
 
 # How to run the Chat !!
 
-(You must have the server running in terminal (Soon It will be integrated with Dcoker :3 ) )
+(You must have the server running in terminal )
 
 > cd chat-server
 
@@ -25,8 +25,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-# How to run the Server ! with Docker :p 
-(Install doker ofc xD)
+# How to run the Server ! with Docker 
 (No need to open XAMPP or phpmyadmin or any Server)
 
 > docker pull mysql
